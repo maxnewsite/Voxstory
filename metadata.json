@@ -1,0 +1,7 @@
+{
+  "name": "VoxStory: Multi-Voice Audiobook Creator",
+  "description": "Transform your PDFs into immersive audiobooks with distinct character voices using Gemini's high-fidelity text-to-speech technology.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
